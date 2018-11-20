@@ -30,7 +30,7 @@ http://localhost:8080/greeting?name=User
 
 References
 ----------
-- []( ""):
+- [spring-guides/gs-rest-service](https://github.com/spring-guides/gs-rest-service "spring-guides/gs-rest-service"):
 - []( ""):
 - []( ""):
 - []( ""):
