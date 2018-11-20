@@ -20,25 +20,9 @@ Or you can build the JAR file with ./mvnw clean package.
 Then you can run the JAR file: java -jar target/gs-rest-hateoas-0.1.0.jar
 
 ```
-$ curl http://192.168.1.11:8080/
+http://localhost:8080/greeting
 
-$ curl http://192.168.1.11:8080/people
-
-$ curl -i -X POST -H "Content-Type:application/json" -d '{"firstName":"Frodo", "lastName":"Beggins"}' http://192.168.1.11:8080/people
-
-$ curl -i http://192.168.1.11:8080/people
-
-$ curl -i http://192.168.1.11:8080/people/1
-
-$ curl -i http://192.168.1.11:8080/people/search
-
-$ curl -i http://192.168.1.11:8080/people/search/findByLastName?name=Baggins
-
-$ curl -X PUT -H "Content-Type:application/json" -d '{"firstName":"Bilbo", "lastName":"Beggins"}' http://192.168.1.11:8080/people
-
-$ curl -X PATCH -H "Content-Type:application/json" -d '{"firstName":"Bilbo Jr.", "lastName":"Beggins"}' http://192.168.1.11:8080/people
-
-$ curl -X DELETE http://192.168.1.11:8080/people/1
+http://localhost:8080/greeting?name=User
 
 ```
 
