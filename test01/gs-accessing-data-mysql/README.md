@@ -13,18 +13,18 @@ the development lifecycle, access different environments, and so forth.
   
 If you are using Gradle, you can run the application using ./gradlew bootRun.
 Or you can build the JAR file using ./gradlew build.
-Then you can run the JAR file: java -jar build/libs/gs-rest-service-0.1.0.jar
+Then you can run the JAR file: java -jar build/libs/gs-accessing-data-mysql-0.1.0.jar
   
 If you are using Maven, you can run the application using ./mvnw spring-boot:run.
 Or you can build the JAR file with ./mvnw clean package. 
-Then you can run the JAR file: java -jar target/gs-rest-service-0.1.0.jar
+Then you can run the JAR file: java -jar target/gs-accessing-data-mysql-0.1.0.jar
 
 ```
-http://localhost:8080/greeting
-	{"id":1,"content":"Hello, World!"}
+http://localhost:8080/demo/add?name=Hello&email=name@email.com
+	Saved
 
-http://localhost:8080/greeting?name=User
-	{"id":1,"content":"Hello, User!"}
+http://localhost:8080/demo/all
+	[{"id":1,"name":"Hello","email":"name@email.com"}]
 ```
 
 
