@@ -1,5 +1,5 @@
-KieaGradle/test01/gs-rest-service
-=================================
+KieaGradle/test01/gs-accessing-data-mysql
+=========================================
 
 RESTful gradle project
 
