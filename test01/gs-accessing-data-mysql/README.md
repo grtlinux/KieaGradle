@@ -30,7 +30,7 @@ http://localhost:8080/demo/all
 
 References
 ----------
-- [spring-guides/gs-rest-service](https://github.com/spring-guides/gs-rest-service "spring-guides/gs-rest-service"):
+- [spring-guides/gs-accessing-data-mysql](https://github.com/spring-guides/gs-accessing-data-mysql "spring-guides/gs-accessing-data-mysql"):
 - []( ""):
 - []( ""):
 - []( ""):
