@@ -19,7 +19,13 @@ If you are using Maven, you can run the application using ./mvnw spring-boot:run
 Or you can build the JAR file with ./mvnw clean package. 
 Then you can run the JAR file: java -jar target/gs-rest-service-0.1.0.jar
 
+```
+http://localhost:8080/greeting
+	{"id":1,"content":"Hello, World!"}
 
+http://localhost:8080/greeting?name=User
+	{"id":1,"content":"Hello, User!"}
+```
 
 
 References
