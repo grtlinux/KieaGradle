@@ -21,7 +21,7 @@ References
 -
 - [Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial](https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/ "Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial"): [https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial](https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial)
 - [Spring Boot 2 Hibernate 5 MySQL CRUD REST API Tutorial](http://www.javaguides.net/2018/09/spring-boot-2-hibernate-5-mysql-crud-rest-api-tutorial.html "Spring Boot 2 Hibernate 5 MySQL CRUD REST API Tutorial"): [RameshMF/springboot2-jpa-crud-rest](https://github.com/RameshMF/springboot2-jpa-crud-rest)
-- []( "")
+- [Creating a CRUD REST API/Service with Spring Boot, JPA and Hibernate](http://www.springboottutorial.com/spring-boot-crud-rest-service-with-jpa-hibernate "Creating a CRUD REST API/Service with Spring Boot, JPA and Hibernate")
 - []( "")
 - []( "")
 - []( "")
