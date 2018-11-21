@@ -1,0 +1,9 @@
+/.gradle/
+/bin/
+/build/
+/gradle/
+/target/
+/war/
+
+
+
