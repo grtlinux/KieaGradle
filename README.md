@@ -1,6 +1,18 @@
 # KieaGradle
 Gradle projects
 
+Wrapper
+------
+```
+	$ gradle wrapper                         <--- very important
+	$ ./gradlew clean build
+	$ java -jar build/libs/XXXXX.jar
+
+	$ mvn -N io.takari:maven:wrapper         <--- very important
+	$ ./mvnw clean package
+	$ java -jar target/XXXXX.jar
+	
+```
 
 
 References
