@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: evolution
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: taincokr
+Implementation-Vendor-Id: org.springframework.guides
+Build-Jdk: 1.8.0_152
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/tut-rest/evolution
+Created-By: Maven Integration for Eclipse
+
