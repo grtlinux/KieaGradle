@@ -29,7 +29,9 @@ References
 - []( "")
 .....
 
-== See Also
+
+See Also
+--------
 
 The following guides may also be helpful:
 
