@@ -20,7 +20,7 @@ References
 - [Spring boot 기반 REST API 제작 (5)](https://medium.com/@devAsterisk/spring-boot-%EA%B8%B0%EB%B0%98-rest-api-%EC%A0%9C%EC%9E%91-5-bd1b4f0e4680 "Spring boot 기반 REST API 제작 (5)")
 -
 - [Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial](https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/ "Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial"): [https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial](https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial)
-- []( "")
+- [Spring Boot 2 Hibernate 5 MySQL CRUD REST API Tutorial](http://www.javaguides.net/2018/09/spring-boot-2-hibernate-5-mysql-crud-rest-api-tutorial.html "Spring Boot 2 Hibernate 5 MySQL CRUD REST API Tutorial"): [RameshMF/springboot2-jpa-crud-rest](https://github.com/RameshMF/springboot2-jpa-crud-rest)
 - []( "")
 - []( "")
 - []( "")
