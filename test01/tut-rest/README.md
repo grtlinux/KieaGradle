@@ -1,6 +1,8 @@
 tut-rest
 ========
 
+Building REST services with Spring
+
 
 References
 ----------
