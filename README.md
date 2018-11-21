@@ -4,11 +4,27 @@ Gradle projects
 Wrapper
 ------
 ```
+	--------------------- Gradle --------------------
 	$ gradle wrapper                         <--- very important
+	$ tree /f gradle
+		....../gradle
+		└─wrapper
+		        gradle-wrapper.jar
+		        gradle-wrapper.properties
+		        	
+	
 	$ ./gradlew clean build
 	$ java -jar build/libs/XXXXX.jar
-
+	
+	--------------------- Maven --------------------
 	$ mvn -N io.takari:maven:wrapper         <--- very important
+	$ tree /f .mvn
+		....../.mvn
+		└─wrapper
+		        maven-wrapper.jar
+		        maven-wrapper.properties
+		        MavenWrapperDownloader.java
+
 	$ ./mvnw clean package
 	$ java -jar target/XXXXX.jar
 	
