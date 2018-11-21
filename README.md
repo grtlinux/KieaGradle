@@ -10,6 +10,13 @@ References
 - [Spring + Gradle 연동하기](http://aristatait.tistory.com/66 "Spring + Gradle 연동하기")
 - [#3_[spring boot] 프로젝트 처음 시작하기(jsp vieeResolver)](http://lee-mandu.tistory.com/343?category=715433 "#3_[spring boot] 프로젝트 처음 시작하기(jsp vieeResolver)")
 - [Gradle 멀티 프로젝트 관리](https://jojoldu.tistory.com/123 "Gradle 멀티 프로젝트 관리")
+-
+- [Spring boot 기반 REST API 제작 (1)](https://medium.com/@devAsterisk/spring-boot-%EA%B8%B0%EB%B0%98-rest-api-%EC%A0%9C%EC%9E%91-1-ecfdf9d4d41e "Spring boot 기반 REST API 제작 (1)")
+- [Spring boot 기반 REST API 제작 (2)](https://medium.com/@devAsterisk/spring-boot-%EA%B8%B0%EB%B0%98-rest-api-%EC%A0%9C%EC%9E%91-2-79c484fcadbe "Spring boot 기반 REST API 제작 (2)")
+- [Spring boot 기반 REST API 제작 (3)](https://medium.com/@devAsterisk/spring-boot-%EA%B8%B0%EB%B0%98-rest-api-%EC%A0%9C%EC%9E%91-3-b16055f5dc6e "Spring boot 기반 REST API 제작 (3)")
+- [Spring boot 기반 REST API 제작 (4)](https://medium.com/@devAsterisk/spring-boot-%EA%B8%B0%EB%B0%98-rest-api-%EC%A0%9C%EC%9E%91-4-503f3a9befba "Spring boot 기반 REST API 제작 (4)")
+- [Spring boot 기반 REST API 제작 (5)](https://medium.com/@devAsterisk/spring-boot-%EA%B8%B0%EB%B0%98-rest-api-%EC%A0%9C%EC%9E%91-5-bd1b4f0e4680 "Spring boot 기반 REST API 제작 (5)")
+- []( "")
 - []( "")
 - []( "")
 - []( "")
