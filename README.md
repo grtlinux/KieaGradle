@@ -50,6 +50,13 @@ References
 - [Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial](https://www.callicoder.com/spring-boot-rest-api-tutorial-with-mysql-jpa-hibernate/ "Spring Boot, MySQL, JPA, Hibernate Restful CRUD API Tutorial"): [https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial](https://github.com/callicoder/spring-boot-mysql-rest-api-tutorial)
 - [Spring Boot 2 Hibernate 5 MySQL CRUD REST API Tutorial](http://www.javaguides.net/2018/09/spring-boot-2-hibernate-5-mysql-crud-rest-api-tutorial.html "Spring Boot 2 Hibernate 5 MySQL CRUD REST API Tutorial"): [RameshMF/springboot2-jpa-crud-rest](https://github.com/RameshMF/springboot2-jpa-crud-rest)
 - [Creating a CRUD REST API/Service with Spring Boot, JPA and Hibernate](http://www.springboottutorial.com/spring-boot-crud-rest-service-with-jpa-hibernate "Creating a CRUD REST API/Service with Spring Boot, JPA and Hibernate")
+-
+- [Create a Gradle Java Web Application and run on Gradle Tomcat Plugin](https://o7planning.org/en/11247/create-a-gradle-java-web-application-and-run-on-gradle-tomcat-plugin#a4930483 "")
+- *[Spring Tutorial](https://www.journaldev.com/8398/spring-mvc-gradle "")
+- []( "")
+- []( "")
+- []( "")
+- []( "")
 - []( "")
 - []( "")
 - []( "")
