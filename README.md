@@ -28,6 +28,9 @@ Wrapper
 	$ ./mvnw clean package
 	$ java -jar target/XXXXX.jar
 	
+	
+	$ gradle wrapper --gradle-version=4.10-rc-2        <---
+	
 ```
 
 
